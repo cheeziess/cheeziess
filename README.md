@@ -35,8 +35,12 @@ Currently listening to:<br>
 
 <img src="https://komarev.com/ghpvc/?username=cheeziess&color=431c53" alt="cheeziees">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cheeziess&" alt="cheeziess" /></p>
-
+##### Probably useless links
+- [steam](https://steamcommunity.com/id/Ch33z1e)
+- [osu profile](https://osu.ppy.sh/u/cheezie)
+- [twitter](https://twitter.com/Cheeeeeeeeezi9)
+- [some domains i own](https://cheezie.me/domains)
+- [spotify profile](https://open.spotify.com/user/guwmvkhyh85uvierjzp9buh87)
 <!--
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Cheezie)
 -->
