@@ -2,7 +2,7 @@
 
 
 - he/him   <!--<br> <img src="https://cdn.discordapp.com/emojis/800994974920474644.png?v=1"> -->
-- reach me on [Discord](https://discord.com/users/496977343194333184) cheezie#0001 (496977343194333184)|| [keybase.io/cheezie](https://keybase.io/cheezie) || [cheezie@cheezie.me](mailto:cheezie@cheezie.me) / [cheeziess@pm.me](mailto:cheeziess@pm.me) / [cheezie@discord.engineer](mailto:cheezie@discord.engineer)
+- reach me on [Discord](https://discord.com/users/496977343194333184) cheezie#8224 (496977343194333184)|| [keybase.io/cheezie](https://keybase.io/cheezie) || [cheeziess@pm.me](mailto:cheeziess@pm.me) 
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,7 +39,6 @@ Currently listening to:<br>
 - [steam](https://steamcommunity.com/id/Ch33z1e)
 - [osu profile](https://osu.ppy.sh/u/cheezie)
 - [twitter](https://twitter.com/Cheeeeeeeeezi9)
-- [some domains i own](https://cheezie.me/domains)
 - [spotify profile](https://open.spotify.com/user/guwmvkhyh85uvierjzp9buh87)
 <!--
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Cheezie)
