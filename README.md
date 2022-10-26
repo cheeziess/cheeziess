@@ -31,7 +31,8 @@ Currently listening to:<br>
 <!--
 ![If you see this message, refresh the page](https://metrics.lecoq.io/cheeziess?template=classic&base.header=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta&config.twemoji=true)
 -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=guwmvkhyh85uvierjzp9buh87&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=guwmvkhyh85uvierjzp9buh87&redirect=true)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=guwmvkhyh85uvierjzp9buh87&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=guwmvkhyh85uvierjzp9buh87&redirect=true)
 
 <img src="https://komarev.com/ghpvc/?username=cheeziess&color=431c53" alt="cheeziees">
 
