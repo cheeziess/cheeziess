@@ -2,7 +2,7 @@
 
 
 - he/him   <!--<br> <img src="https://cdn.discordapp.com/emojis/800994974920474644.png?v=1"> -->
-- reach me on [Discord](https://discord.com/users/496977343194333184) cheezie#8224 (496977343194333184) || [cheeziess@pm.me](mailto:cheeziess@pm.me) 
+- reach me on [Discord](https://discord.com/users/496977343194333184) cheezie#7113 (496977343194333184) || [cheeziess@pm.me](mailto:cheeziess@pm.me) 
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
