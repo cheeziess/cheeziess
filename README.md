@@ -2,7 +2,7 @@
 
 
 - he/him  
-- reach me on [Discord](https://discord.gg/PFvuVvpt9G) chzs (496977343194333184) || [cheeziess@pm.me](mailto:cheeziess@pm.me) 
+- reach me on [Discord](https://discord.gg/R2zcmRMQym) chzs (496977343194333184) || [cheeziess@pm.me](mailto:cheeziess@pm.me) 
 
 ![](https://discord.c99.nl/widget/theme-3/496977343194333184.png)
 
