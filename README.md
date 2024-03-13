@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 January 2021 - To: 11 March 2024
+From: 09 January 2021 - To: 12 March 2024
 
 Total Time: 14 hrs 19 mins
 
-PHP          3 hrs 41 mins   >>>>>>-------------------   25.77 %
-TypeScript   3 hrs 16 mins   >>>>>>-------------------   22.84 %
+PHP          3 hrs 41 mins   >>>>>>-------------------   25.76 %
+TypeScript   3 hrs 16 mins   >>>>>>-------------------   22.83 %
 C            2 hrs 44 mins   >>>>>--------------------   19.13 %
 C++          1 hr 19 mins    >>-----------------------   09.27 %
 HTML         1 hr 2 mins     >>-----------------------   07.33 %
